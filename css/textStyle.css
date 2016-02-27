@@ -1,0 +1,50 @@
+/* Y: */
+#cl{
+font-family: 'Roboto', sans-serif;
+    text-decoration: none !important;
+font-size: 300px;
+color: #29B6F6;
+ line-height:10px; 
+
+}
+#p1{font-size: 50px;
+    text-decoration: none !important;
+font-family: 'Abril Fatface';
+color: #FF3F80;
+    display: inline;
+}
+#p2{
+font-family: 'Roboto-Thin';
+    font-size: 50px;
+    display: inline;
+    text-decoration: none !important;
+
+color: #4CAF50;
+
+}
+div{
+margin-top:7cm;
+
+}
+body{
+background : #212121
+}
+@font-face {
+	  font-family: 'Abril Fatface';
+	    font-style: normal;
+	      font-weight: 400;
+	        src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(http://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDtiatsHTxQkGvnPUXHFXIVY.woff2) format('woff2');
+		  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+	  }
+	  /* latin */
+	  @font-face {
+		    font-family: 'Abril Fatface';
+		      font-style: normal;
+		        font-weight: 400;
+			  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(http://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDgYWpCd0FFfjqwFBDnEN0bM.woff2) format('woff2');
+			    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+		    }
+
+
+
+		   
