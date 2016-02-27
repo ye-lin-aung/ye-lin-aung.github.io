@@ -11,12 +11,14 @@ color: #29B6F6;
     text-decoration: none !important;
 font-family: 'Abril Fatface';
 color: #FF3F80;
+    line-height:30px; 
     display: inline;
 }
 #p2{
 font-family: 'Roboto-Thin';
     font-size: 50px;
     display: inline;
+    line-height:30px; 
     text-decoration: none !important;
 
 color: #4CAF50;
