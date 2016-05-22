@@ -90,6 +90,7 @@ html{
 body{
      
      
+/*
       background: url("/img/weholdthree.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,6 +98,7 @@ body{
 -moz-background-size:cover;
 -o-background-size:cover;
     background-position: center;
+*/
     color: rgba(231, 240, 232, 0.71);
     font-family: 'Anonymous Pro';
 	font-size: 120%;
