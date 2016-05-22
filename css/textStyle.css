@@ -72,8 +72,17 @@ margin-top:7cm;
 	border-radius:5px;
 
 }
+#background1{
+background-image: url("www.ye-lin-aung.github.io/img/wehold.png");
+    
+}
 
 body{
+     background-size: 1440px 800px;
+     background-repeat:no-repeat;
+    display: compact;
+     margin: 0;
+     
     background : #212121;
     color: rgba(231, 240, 232, 0.71);
     font-family: 'Anonymous Pro';
