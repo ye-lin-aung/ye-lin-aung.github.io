@@ -72,8 +72,14 @@ margin-top:7cm;
 	border-radius:5px;
 
 }
-#background1{
-    background-image: url("/img/weholdthree.png");
+
+
+
+
+body{
+     
+     
+      background: url("/img/weholdthree.png");
     background-repeat: no-repeat;
     background-size: cover;
 -webkit-background-size:cover;
@@ -81,15 +87,7 @@ margin-top:7cm;
 -o-background-size:cover;
 background-size:cover;
 background-position:center;
-}
 
-
-
-body{
-     
-     
-  
-    background : #212121;
     color: rgba(231, 240, 232, 0.71);
     font-family: 'Anonymous Pro';
 	font-size: 120%;
