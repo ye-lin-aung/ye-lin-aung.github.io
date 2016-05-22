@@ -75,7 +75,7 @@ margin-top:7cm;
 #background1{
     background-image: url("/img/weholdthree.png");
     background-repeat: no-repeat;
-    background-size: contain;
+   background-size: cover;
 }
 
 body{
