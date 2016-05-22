@@ -80,3 +80,4 @@ out: {
   // set the type of token to animate (available types: 'char' and 'word')
   type: 'char'
 });
+

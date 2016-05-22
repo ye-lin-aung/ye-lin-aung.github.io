@@ -1,11 +1,18 @@
-/* Y: */
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
 #cl{
-font-family: 'Roboto', sans-serif;
-    text-decoration: none !important;
-font-size: 300px;
-color: #29B6F6;
- line-height:10px; 
-
+    
+font-family: 'Roboto';
+text-decoration: none !important;
+font-size: 1500%;
+color: #4CAF50;
+    margin:3px auto;
+    
+}
+#d1{
+    border-radius:5px;
+margin-top:2.5cm;
+    
 }
 #p1{font-size: 50px;
     text-decoration: none !important;
@@ -15,21 +22,59 @@ color: #FF3F80;
     display: inline;
 }
 #p2{
+color: #29B6F6;
 font-family: 'Roboto-Thin';
+
     font-size: 50px;
     display: inline;
     line-height:30px; 
     text-decoration: none !important;
 
-color: #4CAF50;
-
 }
-div{
+
+
+
+ .typed-cursor{
+	     opacity: 1;
+	         -webkit-animation: blink 0.7s infinite;
+		     -moz-animation: blink 0.7s infinite;
+		         animation: blink 0.7s infinite;
+		 }
+		 @keyframes blink{
+			     0% { opacity:1; }
+			         50% { opacity:0; }
+				     100% { opacity:1; }
+			     }
+			     @-webkit-keyframes blink{
+				         0% { opacity:1; }
+					     50% { opacity:0; }
+					         100% { opacity:1; }
+					 }
+					 @-moz-keyframes blink{
+						     0% { opacity:1; }
+						         50% { opacity:0; }
+							     100% { opacity:1; }
+						     }
+
+#div2{
 margin-top:7cm;
 
 }
+
+
+.type-wrap{
+	margin:3px auto;
+	padding:10px;
+
+	border-radius:5px;
+
+}
+
 body{
-background : #212121
+    background : #212121;
+    color: rgba(231, 240, 232, 0.71);
+    font-family: 'Anonymous Pro';
+	font-size: 120%;
 }
 @font-face {
 	  font-family: 'Abril Fatface';
@@ -46,6 +91,7 @@ background : #212121
 			  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(http://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDgYWpCd0FFfjqwFBDnEN0bM.woff2) format('woff2');
 			    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 		    }
+
 
 
 
