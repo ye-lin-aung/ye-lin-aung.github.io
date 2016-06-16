@@ -27,8 +27,7 @@
 <script src="/js/typed.js" type="text/javascript"></script>  
      <script>
          $(function(){
-	         $("#typed").typed({
-                 stringsElement: $('#typed-strings'),
+	         $("#typed").typed({ stringsElement: $('#typed-strings'),
                  typeSpeed: 50,
                  backDelay: 500,
                  loop: true,
@@ -38,8 +37,7 @@
                  callback: function(){ foo(); },
                  resetCallback: function() { newTyped(); }
              });
-     
-             $(".reset").click(function(){
+     $(".reset").click(function(){
                  $("#typed").typed('reset');
              });
      
@@ -67,10 +65,10 @@
 			  <div id="typed-strings">                
 				  <p> I wanted to tell you that</p>
 				  <p> whatever I am</p><p>whatever happens,</p><p>I'll always think of you</p><p>and the time we spend together</p><p>as my happiest time.</p><p>I'd do it all over again</p>
-                  <p> If i had the choice.No regrets.</p>
+                  <p> If i had the choice.</p>
+		  <p>No regrets</p>
 				  <p><strong>I love you </strong></p>
-                  <p>You are my<em>Queen</em></p>
-				  <p>Please marry me</p>
+                  <p>You are my<em>Queen</em></p> <p>Please marry me</p>
                  
 					      </div>
 					      <span id="typed" style="white-space:pre;"></span>
