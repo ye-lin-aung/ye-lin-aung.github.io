@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/jschr/pen/GaJCi.
+yelinaung.xyz Website base on yelinaung.github.io
 
- textillate.js and bounce.js demo
